@@ -11,21 +11,21 @@ This repository includes submodules for each of the major projects that I comple
 
 ### 1. Data Modeling
 
- - Project 1: Data Modeling with Postgres
- - Project 2: Data Modeling with Apache Cassandra
+ - Project 1: [Data Modeling with Postgres](https://github.com/mludden55/data-engineering-nanodegree/tree/master/Project1-data-modeling-postgres)
+ - Project 2: [Data Modeling with Apache Cassandra](https://github.com/mludden55/data-engineering-nanodegree/tree/master/Project2-data-modeling-apache-cassandra)
  
 ### 2. Cloud Data Warehouses
  
- - Project 3: Data Warehouse with AWS Redshift
+ - Project 3: [Data Warehouse with AWS Redshift](https://github.com/mludden55/data-engineering-nanodegree/tree/master/Project3-data-warehouse)
  
 ### 3. Spark and Data Lakes
  
- - Project 4: Sparkify's Data Lake ELT process
+ - Project 4: [Data Lake and ETL Pipeline in Spark](https://github.com/mludden55/data-engineering-nanodegree/tree/master/Project4-data-lake)
  
 ### 4. Data Pipelines with Airflow
  
- - Project 5: Sparkify's Event Logs Data Pipeline
+ - Project 5: [Creating and Automating Data Pipeline with Airflow](https://github.com/mludden55/data-engineering-nanodegree/tree/master/Project5-data-pipelines-airflow)
   
 ### 5. Capstone Project
 
- - Project 6: Sparkify's Event Logs Data Pipeline
+ - Project 6: [Capstone Data Immigration Project](https://github.com/mludden55/data-engineering-nanodegree/tree/master/https://github.com/mludden55/data-engineering-nanodegree/tree/master/Project6-capstone-project)
