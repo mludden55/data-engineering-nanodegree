@@ -28,4 +28,4 @@ This repository includes submodules for each of the major projects that I comple
   
 ### 5. Capstone Project
 
- - Project 6: [Capstone Data Immigration Project](https://github.com/mludden55/data-engineering-nanodegree/tree/master/https://github.com/mludden55/data-engineering-nanodegree/tree/master/Project6-capstone-project)
+ - Project 6: [Capstone Data Immigration Project](https://github.com/mludden55/data-engineering-nanodegree/tree/master/Project6-capstone-project)
