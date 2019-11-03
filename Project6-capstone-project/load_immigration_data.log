@@ -1,0 +1,73 @@
+2019-11-01 22:42:09,198 Number of rows: 3096313
+2019-11-01 22:42:09,299 Filtering data
+2019-11-01 22:42:10,605 Number of rows after filter #1: 3096313
+2019-11-01 22:42:13,901 Number of rows after filter #2: 3096313
+2019-11-01 22:42:15,448 Number of rows after filter #3: 3088576
+2019-11-01 22:42:15,448 Inserting data
+2019-11-01 22:51:33,059 Number of rows: 3733786
+2019-11-01 22:51:33,119 Filtering data
+2019-11-01 22:53:15,388 Number of rows after filter #1: 3733786
+2019-11-01 22:53:32,405 Number of rows after filter #2: 3733786
+2019-11-01 22:53:35,554 Number of rows after filter #3: 3728974
+2019-11-01 22:53:35,557 Inserting data
+2019-11-01 22:59:36,052 Number of rows: 2914926
+2019-11-01 22:59:36,115 Filtering data
+2019-11-01 22:59:45,137 Number of rows after filter #1: 2914926
+2019-11-01 22:59:50,035 Number of rows after filter #2: 2914926
+2019-11-01 22:59:51,654 Number of rows after filter #3: 2907766
+2019-11-01 22:59:51,655 Inserting data
+2019-11-01 23:06:03,819 Number of rows: 3157072
+2019-11-01 23:06:03,858 Filtering data
+2019-11-01 23:06:30,637 Number of rows after filter #1: 3157072
+2019-11-01 23:06:36,350 Number of rows after filter #2: 3157072
+2019-11-01 23:06:38,211 Number of rows after filter #3: 3150388
+2019-11-01 23:06:38,213 Inserting data
+2019-11-01 23:17:13,055 Number of rows: 3574989
+2019-11-01 23:17:13,100 Filtering data
+2019-11-01 23:19:03,141 Number of rows after filter #1: 3574989
+2019-11-01 23:19:18,673 Number of rows after filter #2: 3574989
+2019-11-01 23:19:20,746 Number of rows after filter #3: 3508877
+2019-11-01 23:19:20,746 Inserting data
+2019-11-01 23:33:42,913 Number of rows: 4103570
+2019-11-01 23:33:43,008 Filtering data
+2019-11-01 23:35:52,647 Number of rows after filter #1: 4103570
+2019-11-01 23:38:38,114 Number of rows after filter #2: 4103570
+2019-11-01 23:39:55,376 Number of rows after filter #3: 4095030
+2019-11-01 23:39:55,385 Inserting data
+2019-11-01 23:49:23,195 Number of rows: 3444249
+2019-11-01 23:49:23,276 Filtering data
+2019-11-01 23:51:05,336 Number of rows after filter #1: 3444249
+2019-11-01 23:51:13,296 Number of rows after filter #2: 3444249
+2019-11-01 23:51:15,257 Number of rows after filter #3: 3438954
+2019-11-01 23:51:15,257 Inserting data
+2019-11-01 23:57:07,169 Number of rows: 2847924
+2019-11-01 23:57:07,220 Filtering data
+2019-11-01 23:57:10,917 Number of rows after filter #1: 2847924
+2019-11-01 23:57:14,890 Number of rows after filter #2: 2847924
+2019-11-01 23:57:16,637 Number of rows after filter #3: 2840230
+2019-11-01 23:57:16,639 Inserting data
+2019-11-02 00:06:45,343 Number of rows: 3649136
+2019-11-02 00:06:45,393 Filtering data
+2019-11-02 00:08:36,725 Number of rows after filter #1: 3649136
+2019-11-02 00:08:49,509 Number of rows after filter #2: 3649136
+2019-11-02 00:08:51,667 Number of rows after filter #3: 3642410
+2019-11-02 00:08:51,668 Inserting data
+2019-11-02 00:24:59,340 Number of rows: 4265031
+2019-11-02 00:24:59,442 Filtering data
+2019-11-02 00:27:14,917 Number of rows after filter #1: 4265031
+2019-11-02 00:31:49,900 Number of rows after filter #2: 4265031
+2019-11-02 00:33:50,681 Number of rows after filter #3: 4247845
+2019-11-02 00:33:50,726 Inserting data
+2019-11-02 00:39:14,851 Number of rows: 2570543
+2019-11-02 00:39:14,907 Filtering data
+2019-11-02 00:39:16,172 Number of rows after filter #1: 2570543
+2019-11-02 00:39:19,073 Number of rows after filter #2: 2570543
+2019-11-02 00:39:20,505 Number of rows after filter #3: 2565710
+2019-11-02 00:39:20,505 Inserting data
+2019-11-02 00:47:58,479 Number of rows: 3432990
+2019-11-02 00:47:58,555 Filtering data
+2019-11-02 00:49:45,516 Number of rows after filter #1: 3432990
+2019-11-02 00:49:56,372 Number of rows after filter #2: 3432990
+2019-11-02 00:49:58,394 Number of rows after filter #3: 3424841
+2019-11-02 00:49:58,394 Inserting data
+2019-11-02 00:51:11,780 Data insert complete!
