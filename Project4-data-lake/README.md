@@ -6,12 +6,12 @@ The goal of this project is to create an ETL pipeline to copy data from JSON log
 
 
 
-##Code Overview:
+## Code Overview:
 1. Read song data and log data from S3 on Amazon.
 2. Create temporary tables that filter out duplicate data.
 3. Write the tables to parquet files on Amazon S3 with specified partitions.
 
-##File Details  
+## File Details  
 1. dl.cfg -  configuration file that contains aws information.
 2. unzip.py -  python file to execute to extract test data in project workspace.
 3. etl.py - python file to execute to read data and then write to tables hosted on Amazon S3.
@@ -20,13 +20,13 @@ The goal of this project is to create an ETL pipeline to copy data from JSON log
 
 
 
-##How to Run
+## How to Run
 1. Create a cluster on Amazon EMR.
 2. Create a bucket for maintaining data on Amazon S3.
 3. Update AWS IAM credentials in dl.cfg file.
 4. Run the following python command in a terminal: python etl.py
 
-##Creating an EMR cluster  
+## Creating an EMR cluster  
 1. Services > EC2 > Keypairs (from left nav)
 2. Create keypair named spark-cluster
 3. Download, save to folder.
@@ -43,6 +43,6 @@ The goal of this project is to create an ETL pipeline to copy data from JSON log
 	I. Remaining default options  
 6. Click Create Cluster
 
-##Creating an Amazon Bucket
+## Creating an Amazon Bucket
 1. Services > S3
 2. Buckets
