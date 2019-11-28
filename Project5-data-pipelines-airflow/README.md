@@ -17,7 +17,7 @@ The following steps were taken to complete this project:
 6. Run the DAG from step #3.
 
 
-##Creating a Redshift cluster  
+## Creating a Redshift cluster  
 1. Login to Amazon Redshift: https://console.aws.amazon.com/redshift/
 2. Create a security group for Redshift. Name it: redshift___security___group.
 3. Create an IAM role that has read access to S3. Name the role myRedshiftRole. 
@@ -35,13 +35,13 @@ The following steps were taken to complete this project:
 	A. VPC security groups: redshift_security_group  
 	B. Available IAM roles: myRedshiftRole (role created in step #2)  
 
-##Creating tables
+## Creating tables
 1. From Redshift Dashboard, click "Query Editor" from left navigation.
 2. Select the dev database. 
 3. Change schema to "public".
 4. Run each of the create tables queries from create_tables.sql in the project repository.
 
-##DAG, SQL and Python File Details  
+## DAG, SQL and Python File Details  
 1. etl_dag.py-  DAG that is run from within Apache Airflow to load data.
 2. create_tables.py -  sql that is to be run in Query Editor to create appropriate tables.
 3. stage_redshift.py - Read files from S3 and load into Redshift tables.
@@ -50,11 +50,11 @@ The following steps were taken to complete this project:
 6. load_fact.py - read data and populate fact tables.
 
 
-##Start Apache Airflow
+## Start Apache Airflow
 1. From workspace command prompt run the following: /opt/airflow/start.sh
 2. Click "Access Airflow" from workspace. 
 
-##Create appropriate connections in Apache Airflow
+## Create appropriate connections in Apache Airflow
 1. From Apache Airflow Click Admin > Connections.
 2. Click "Create". 
 3. Configure connection as follows:  
@@ -73,7 +73,7 @@ The following steps were taken to complete this project:
 	F. Password: password from Redshift Cluster created above  
 	G. Port: 5439  
 
-##Run the DAG
+## Run the DAG
 1. From Airflow click "DAGs" from top navigation.
 2. You shoud see DAG named etl_dag.
 3. Click the Play button.

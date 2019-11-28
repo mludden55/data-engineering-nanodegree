@@ -29,7 +29,7 @@ The following steps were taken to complete this project:
 
 
 
-##Description of database schema design:
+## Description of database schema design:
 The data warehouse includes 1 fact table, 4 dimension tables and 2 staging tables. A star schema is used to relate the fact table to the dimension tables.  The following foreign keys are included in the songplays fact table:
 
 
@@ -137,7 +137,7 @@ CREATE TABLE staging_songs(
     year INT,  
     PRIMARY KEY (song_id))
 
-##File Details  
+## File Details  
 1. dwh.cfg -  configuration file that contains database information.
 2. create_tables.py -  python file to execute to create tables.
 3. sql_queries.py - sql queries for adding, dropping, inserting and copying tables.  
@@ -147,7 +147,7 @@ CREATE TABLE staging_songs(
 
 
 
-##How to Run
+## How to Run
 1. Create an Amazon Redshift cluster (see below).
 2. Install Python3.
 3. Create project folder and copy in all files from this project.  
@@ -158,7 +158,7 @@ CREATE TABLE staging_songs(
 
         B. python etl.py
 
-##Creating a Redshift cluster  
+## Creating a Redshift cluster  
 1. Login to Amazon Redshift: https://console.aws.amazon.com/redshift/
 2. Create an IAM role that has read access to S3. Name the role myRedshiftRole. 
 3. Click Clusters from left side.

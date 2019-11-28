@@ -8,7 +8,7 @@ The following steps were taken to complete this project:
 2. Run the Capstone Project Template notebook.
 
 
-##Creating a Redshift cluster  
+## Creating a Redshift cluster  
 1. Login to Amazon Redshift: https://console.aws.amazon.com/redshift/
 2. Create a security group for Redshift. Name it: redshift___security___group.
 3. Create an IAM role that has read access to S3. Name the role myRedshiftRole. 

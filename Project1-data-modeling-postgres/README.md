@@ -7,7 +7,7 @@ This goals of this project are as follows:
 3. Massage the data and insert into database.
 
 
-##Description of files and folders:
+## Description of files and folders:
 
 1. data - The primary data folder.
 	
@@ -26,7 +26,7 @@ This goals of this project are as follows:
 6. sql__queries.py - Python script that contains SQL statements used in create_tables.py, along with SQL for inserting and reading data.
 
 
-##How to Run
+## How to Run
 1. Install and run a PostgreSQL instance.
 2. Create a database named sparkifydb
 3. Install Python3
