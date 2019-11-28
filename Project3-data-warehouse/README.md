@@ -154,9 +154,9 @@ CREATE TABLE staging_songs(
 4. Modify dwh.cfg with Redshift cluster information.
 5. Run the following Python scripts from within a Python terminal:
 
-	A. create_tables.py
+	A. python create_tables.py 
 
-        B. python etl.py
+       B. python etl.py
 
 ## Creating a Redshift cluster  
 1. Login to Amazon Redshift: https://console.aws.amazon.com/redshift/

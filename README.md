@@ -1,6 +1,6 @@
 # Data Engineering Nanodegree
 
-You can check more about the nanodegree program out here: https://www.udacity.com/course/data-engineer-nanodegree--nd027
+You can find additional details about the nanodegree program here: https://www.udacity.com/course/data-engineer-nanodegree--nd027
 
 ## Purpose of this repository
 This repository includes submodules for each of the major projects that I completed in order to complete this degree.

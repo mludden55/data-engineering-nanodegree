@@ -33,7 +33,7 @@ This goals of this project are as follows:
 4. Create project folder and copy in all files from this project.
 5. Run the following Python scripts from within a Python terminal:
 
-	A. create_tables.py
+	A. create_tables.py  
+       B. python etl.py
 
-        B. python etl.py
 
